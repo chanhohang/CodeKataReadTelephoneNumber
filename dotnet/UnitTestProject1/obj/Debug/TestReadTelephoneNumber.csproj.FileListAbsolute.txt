@@ -1,0 +1,7 @@
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\obj\Debug\TestReadTelephoneNumber.csprojResolveAssemblyReference.cache
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\bin\Debug\Project1.exe
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\UnitTestProject1\bin\Debug\Project1.pdb

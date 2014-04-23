@@ -1,0 +1,1 @@
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\bin\Debug\Project1.exe.config

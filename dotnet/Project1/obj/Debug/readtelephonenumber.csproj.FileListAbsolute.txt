@@ -1,0 +1,5 @@
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\bin\Debug\Project1.exe.config
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\bin\Debug\Project1.exe
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\bin\Debug\Project1.pdb
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\obj\Debug\Project1.exe
+C:\dojo\github\CodeKataReadTelephoneNumber\dotnet\Project1\obj\Debug\Project1.pdb
